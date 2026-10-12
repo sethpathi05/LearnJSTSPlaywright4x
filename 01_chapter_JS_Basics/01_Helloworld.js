@@ -1,0 +1,1 @@
+console.log("Hello The Testing Academy! Welcome to JavaScript programming.");
